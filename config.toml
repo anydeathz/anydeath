@@ -1,5 +1,5 @@
 theme = "awesome-identity"
-baseURL = "https://calebstew.art"
+baseURL = "https://anydeathz.github.io/anydeath/"
 title = "$ uname -a"
 publishDir = "docs"
 disableKinds = ["taxonomy", "term"]
@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.actions.resume]
   name = "Resume"
-  url = "anydeath/resume"
+  url = "/resume"
 
 [params.actions.source]
   name = "Site Source"
